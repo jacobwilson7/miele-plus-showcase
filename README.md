@@ -123,9 +123,3 @@ AI agent answers on commercial data with the sources attached.
 The source code is maintained in a private repository: Mielepiù is a commercial product with
 client-specific implementation details. This repository documents the architecture, the
 engineering decisions and the product work.
-
-## Links
-
-- **Interactive case study** — [francescoiaforte.vercel.app/en/projects/software-b2b](https://francescoiaforte.vercel.app/en/projects/software-b2b)
-- **Profile** — [github.com/francescoveryra-dot](https://github.com/francescoveryra-dot)
-- **Full portfolio** — [francescoiaforte.vercel.app](https://francescoiaforte.vercel.app)
